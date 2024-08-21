@@ -5,6 +5,7 @@ Book Recommendation System:
 This project showcases a full-stack book recommendation system built using content-based filtering to deliver personalized book suggestions to users. The system not only provides accurate recommendations but also features a user-friendly website designed to enhance the overall user experience.
 
 Key Features:
+
 User Authentication:
 
 Implemented a secure authentication system allowing users to register, log in, and manage their accounts.
